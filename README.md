@@ -77,17 +77,6 @@ Found a bug or have a feature request? Please open an [Issue](https://github.com
 
 ---
 
-## Built With
-
-| Purpose | Library |
-|---|---|
-| Code editor & syntax highlighting | [Runestone](https://github.com/simonbs/Runestone) |
-| SSH connections & file transfer | [Citadel](https://github.com/orlandos-nl/Citadel) |
-| SSH terminal | [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) |
-| Secure credential storage | [keychain-swift](https://github.com/evgenyneu/keychain-swift) |
-
----
-
 ## License
 
 This repository is used for issue tracking and support. The app source code is proprietary.
