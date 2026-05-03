@@ -61,16 +61,6 @@
 
 ---
 
-## Getting Started
-
-1. Download the app from the [App Store](https://apps.apple.com/app/remote-ide/id6762590018)
-2. Create a new project — files are stored in iCloud Drive
-3. Open a file to start editing with full syntax highlighting
-4. Add an SSH server via the **Servers** button in the toolbar
-5. Connect and use the terminal or sync files to your server
-
----
-
 ## Support & Feedback
 
 Found a bug or have a feature request? Please open an [Issue](https://github.com/sergeydi/Remote-IDE_Support/issues) in this repository.
