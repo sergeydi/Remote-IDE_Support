@@ -2,6 +2,8 @@
 
 [![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/app/remote-ide/id6762590018)
 
+[🌐 Official Website](https://remote-ide.com)
+
 **Remote IDE** is a full-featured development environment for iPad that combines a local code editor, SSH terminal, and file sync — all in one app.
 
 ---
