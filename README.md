@@ -18,11 +18,13 @@
 
 ### 📁 File Manager
 - Manage local projects stored in iCloud Drive
-- Create, rename, delete files and folders
+- **Remote Filesystem**: browse and edit files directly on your SSH server — no download required
+- Create, rename, delete files and folders, both local and remote
 - Browse nested project structure in a sidebar
 
 ### ✏️ Code Editor
 - Syntax highlighting for Swift, Python, JavaScript, TypeScript, Go, Rust, C/C++, Ruby, PHP, Shell, JSON, YAML, Markdown, HTML, CSS, and more — powered by [Runestone](https://github.com/simonbs/Runestone) and Tree-sitter
+- CSV files open directly in the editor
 - Auto-detect language by file extension
 - Undo / Redo, Find & Replace
 - Quick-input toolbar with Tab, `()`, `.`, `=`, `#` keys
@@ -41,11 +43,12 @@
 
 ### 🤖 AI Agent Window
 - Dedicated terminal window for running AI coding agents (e.g. Claude Code) over SSH
-- Paste clipboard images directly into the prompt
+- Paste clipboard text and images directly into the prompt
 - Arrow key and Enter buttons for hands-free agent interaction
 
 ### 🌿 Git Status Viewer
 - View changed files and diffs for your project
+- Runs directly over SSH for remote-filesystem projects
 - Dedicated Git window with split sidebar/detail layout
 
 ### 🔐 Security
